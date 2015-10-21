@@ -1,7 +1,7 @@
 <?php
 namespace Api\Models;
 
-class BaseModel extends Api\Model
+class BaseModel extends \Api\Model
 {
     public function __construct()
     {

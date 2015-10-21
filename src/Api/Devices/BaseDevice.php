@@ -1,7 +1,7 @@
 <?php
 namespace Api\Devices;
 
-class BaseDevice extends Api\Device
+class BaseDevice extends \Api\Device
 {
 
 }
